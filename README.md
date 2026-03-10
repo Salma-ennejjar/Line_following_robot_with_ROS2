@@ -13,7 +13,7 @@ Computes robot motion using PID control.
 status_monitor
 Monitors robot state and system information.
 
-## Technologies
+## Technologies utilisées 
 
 - ROS2
 - Python 
