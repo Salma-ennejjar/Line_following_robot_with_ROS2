@@ -4,7 +4,7 @@ This project implements a line following robot using ROS2.
 
 ## Architecture
 
-line_detection
+line_detection: 
 Detects the line using camera or sensors.
 
 motion_control
